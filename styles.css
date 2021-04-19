@@ -1,0 +1,5 @@
+body{
+    background: linear-gradient(45deg, rgba(66, 66, 70, 0.658), black);
+    background-image: url('https://cdn.motor1.com/images/mgl/MoVM6/s1/lamborghini-sc18-alston.jpg');
+    background-position: center center;
+}
